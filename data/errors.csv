@@ -1,0 +1,126 @@
+index,cbo,cargo
+8,632605,Abastecedor de Silos de Carvão
+21,768125,Acabador de Chapéus de Palha
+59,510110,Administrador de Edifícios
+63,252505,Administrador de Fundos e Carteiras de Investimento
+67,252105,Administrador de Orçamento
+84,252105,Administrador Hospitalar
+124,721315,Afiador
+132,721315,Afiador de Ferramentas
+145,342120,Agenciador de Cargas
+147,411010,Agente Administrativo
+167,352205,Agente de Fiscalização Ambiental
+168,254310,Agente de Higiene e Segurança
+179,334110,Agente de Organização Escolar
+196,352210,Agente de Saúde Publica
+198,517330,Agente de Segurança Ferroviária
+201,511205,Agente de Serviços de Fiscalização de Transportes Coletivos e Licenciamento de Veículos
+202,517220,Agente de Tráfego
+260,763125,Ajudante de Confecção
+267,715615,Ajudante de Eletricista
+294,516315,Ajudante de Lavanderia de Artefatos da Tapeçaria
+305,717020,Ajudante de Obras
+311,513505,Ajudante de Padeiro
+314,716610,Ajudante de Pintor
+334,623110,Ajudante de Vaqueiro
+354,722415,Alambrador - na Fabricação de Arame
+386,784105,Amarrador de Embalagens
+418,142330,Analista de BI (Business Intelligence)
+420,252510,Analista de Cambio
+423,142125,Analista de compliance
+428,391210,Analista de Controle de Qualidade
+433,252530,Analista de Credito Rural
+434,252210,Analista de Custos
+452,391210,Analista de Laboratório de Controle de Qualidade
+453,311105,Analista de Laboratório Químico
+471,252405,Analista de Ocupações
+482,252540,Analista de Produtos Bancários
+486,214270,Analista de Projetos Viários
+490,212410,Analista de Redes e de Comunicação de Dados
+495,212405,Analista de Sistemas
+512,214270,Analista de Transportes e Trânsito
+527,352205,Analistas de Projetos Ambientais
+535,376320,Animador de Televisão
+615,261505,Argumentista-roteirista de História em Quadrinhos
+617,715305,Armador de Estrutura de Concreto
+636,214120,Arquiteto da Paisagem
+641,214120,Arquiteto Paisagista
+643,214125,Arquiteto Urbanista
+652,632125,Arrastador de Árvores
+666,782810,Arrieiro
+683,791110,Artesão Ceramista
+686,791125,Artesão do Couro
+707,514105,Ascensorista
+721,252305,Assessor de Presidência
+727,411010,Assistente Administrativo Sindical
+740,351715,Assistente de Contas de Seguros
+744,262205,Assistente de Direção de Cinema
+750,411010,Assistente de Escritório
+757,253110,Assistente de Marketing
+765,517330,Assistente de Segurança
+781,252315,Assistente Trilíngüe
+789,421105,Atendente Comercial em Agência Postal
+818,521140,Atendente de Peixaria
+828,521140,Atendente do Setor de Hortifrutigranjeiros
+837,377105,Atleta da Ginástica
+839,377105,Atleta de Bodybare
+842,377105,Atleta de Esgrima
+843,377110,Atleta de Futebol Sete
+873,262505,Ator de Rádio
+874,262505,Ator de Teatro
+884,252205,Auditor de Contabilidade e Orçamento
+890,254305,Auditor-Fiscal do Trabalho
+895,261505,Autor-roteirista de Rádio
+902,252305,Auxiliar Administrativo de Presidência
+910,318505,Auxiliar de Arquitetura
+924,763125,Auxiliar de Confecção
+932,239405,Auxiliar de Coordenação de Ensino Fundamental de Primeira a Quarta Séries
+936,763320,Auxiliar de Costureira (no Acabamento)
+955,322230,Auxiliar de Enfermagem
+956,322250,Auxiliar de Enfermagem da Estratégia de Saúde da Família
+981,524205,Auxiliar de Feirante
+989,632115,Auxiliar de Inventário
+991,411020,Auxiliar de Judiciário
+993,818110,Auxiliar de Laboratório de Analises Fisico-Quimicas
+1002,514320,Auxiliar de Limpeza
+1010,991105,Auxiliar de Manutenção de Linha Férrea
+1015,914405,Auxiliar de Mecânico de Autos
+1024,511210,Auxiliar de Operação
+1035,723320,Auxiliar de Pintor de Automóveis
+1072,322230,Auxiliar em Hemotransfusão
+1079,911205,Auxiliar Mecânico de Refrigeração
+1089,300305,Auxiliar Técnico de Instalações Eletromecânicas
+1091,314110,Auxiliar Técnico de Mecânica
+1095,411040,Auxiliar Técnico de Seguros
+1134,203015,Bacteriologista
+1144,376110,Bailarinos de Danças Parafolclóricas
+1145,376110,Bailarinos Étnicos
+1146,376110,Bailarinos Populares
+1159,513435,Balconista de Lanchonete
+1173,513420,Barman
+1176,828110,Barreiro
+1192,141410,Belchior
+1199,261205,Biblioteconomista
+1203,421115,Bilheteiro de Cinema
+1204,421115,Bilheteiro de Circo
+1216,201110,Biotecnólogo
+1228,622020,Bóia-fria
+1240,517105,Bombeiro de Aeroporto
+1245,724115,Bombeiro Eletricista
+1256,992115,Borracheiro
+1276,142330,Business Partner
+1277,763005,Buteiro
+1282,848515,Cabeceiro em Matadouro
+1284,516110,Cabeleireiro Afro
+1301,782510,Caçambeiro
+1311,513435,Cafeteiro
+1312,141410,Caga-sebista
+1313,716610,Caiador
+1314,712105,Caieiro - na Fabricação de Cal
+1315,716610,Caieiro (pintor de Paredes)
+1316,421125,Caixa (supermercado)
+1317,413210,Caixa de Banco
+1318,421125,Caixa de Bar
+1319,421125,Caixa de Loja
+1320,421210,Caixa de Turfe
+1321,421205,Caixa Lotérico
